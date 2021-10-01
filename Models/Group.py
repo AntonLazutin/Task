@@ -1,4 +1,4 @@
-from .BaseModel import BaseModel
+from Database.BaseModel import BaseModel
 from .Teacher import Teacher
 from peewee import *
 

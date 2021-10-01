@@ -1,4 +1,4 @@
-from .BaseModel import BaseModel
+from Database.BaseModel import BaseModel
 from peewee import *
 
 class Subject(BaseModel):
